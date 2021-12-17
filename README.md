@@ -1,16 +1,15 @@
-# Tableau Prep Exercise
+# Tableau Prep- 2021: Week 48 Departmental December - Finance
 
-This repository accompanies [*Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool *](https://www.apress.com/9781484254967) by Tim Costello and Lori Blackshear  (Apress, 2020).
+## Requirements
 
-[comment]: #cover
-![Cover image](9781484254967.jpg)
-
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
-
-## Releases
-
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
-
-## Contributions
-
-See the file Contributing.md for more information on how you can contribute to this repository.
+ -  Input the data
+ -   Extract each data table within the Excel workbook
+ -   Extract the branch name from the table structure  
+ -   Create a row per measure and year
+ -   Remove the word 'Year' from the year values
+ -   Create a True Value (i.e. the correct number of zeros for the measure)
+ -   Remove the suffix of the measure (i.e. the (k) or (m) if the measure name has the units)
+ -   Remove unneeded columns
+ -   Output the data
+ 
+<img width="1680" alt="Screenshot 2021-12-17 at 5 50 35 PM" src="https://user-images.githubusercontent.com/95032838/146620485-5ae77f6e-ec89-4018-98b2-f08aff92e207.png">
