@@ -1,4 +1,4 @@
-# Tableau Prep- 2021: Week 48 Departmental December - Finance
+# Tableau Prep- Departmental December - Finance
 
 ## Requirements
 
