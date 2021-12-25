@@ -13,7 +13,7 @@
  -   Output the data
  
  ## Solution
-<img width="1680" alt="Screenshot 2021-12-17 at 5 50 35 PM" src="https://user-images.githubusercontent.com/95032838/146620485-5ae77f6e-ec89-4018-98b2-f08aff92e207.png">
+![image](https://user-images.githubusercontent.com/95032838/147392759-50e04550-b0f2-498c-b5e3-ebb715a47660.png)
 
 ## Walk Through
 
