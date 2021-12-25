@@ -13,7 +13,8 @@
  -   Output the data
  
  ## Solution
-![image](https://user-images.githubusercontent.com/95032838/147392759-50e04550-b0f2-498c-b5e3-ebb715a47660.png)
+![image](https://user-images.githubusercontent.com/95032838/147392796-413dc22f-ed70-4f69-8193-ca86c642fa17.png)
+
 
 ## Walk Through
 
